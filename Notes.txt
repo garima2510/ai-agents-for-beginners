@@ -1,0 +1,8 @@
+Steps followed for this repo:
+
+1. Fork the repo and cloned it in local machines
+2. Created a virtual environment and then installed the dependencies
+	python -m venv venv
+	venv\Scripts\activate
+	pip install -r requirements.txt
+3. To deactivate the virtual environment type "deactivate"
